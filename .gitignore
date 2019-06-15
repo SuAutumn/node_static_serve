@@ -1,0 +1,7 @@
+weather.js
+.idea
+node_modules
+dist
+package-lock.json
+src/route.ts
+.DS_Store
